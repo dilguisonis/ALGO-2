@@ -2,6 +2,7 @@
 Información sobre la materia, trabajos prácticos y mi resolución de los mismos.
 
 Objetivos
+
 Presentar los conceptos básicos que hacen a la solución algorítmica de problemas correcta y eficiente: especificación, diseño, implementación, complejidad de cómputo.
 Introducir tipos abstractos de datos recursivos.
 Presentar las soluciones concretas más reconocidas para los problemas fundamentales de búsqueda y ordenamiento.
